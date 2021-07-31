@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🤔 I’m currently learning about deep learning, reinforcement learning and game theory. Here are some of my experimental codes and datasets. It's my pleasure if they're useful to you.
+
+
 <!--
 **hendrix-dai/hendrix-dai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
