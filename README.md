@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-🤔 I’m currently learning about deep learning, reinforcement learning and game theory. Here are some of my experimental codes and datasets. It's my pleasure if they're useful to you.
+🤔 I’m currently learning about:
+
+* Deep Learning
+* Reinforcement Learning
+* Game Theory
+
+> Here are some of my experimental codes and datasets, and it's my pleasure if they're useful to you 😄.
 
 
 <!--
