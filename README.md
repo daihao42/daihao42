@@ -6,7 +6,7 @@
 * Reinforcement Learning
 * Game Theory
 
-> Here are some of my experimental codes and datasets, and it's my pleasure if they're useful to you 😄.
+<!-- > Here are some of my experimental codes and datasets, and it's my pleasure if they're useful to you 😄. -->
 
 
 <!--
