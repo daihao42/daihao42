@@ -6,7 +6,7 @@
 * Offline Reinforcement Learning
 * Game Theory
 
-- 📫 How to reach me:
+📫 How to reach me:
   - Email: [daihaovigg@gmail.com](mailto:daihaovigg@gmail.com)
   - Homepage: [Hao Dai - Personal Homepage](https://daihao42.github.io)
 
