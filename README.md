@@ -2,9 +2,13 @@
 
 🤔 I’m currently learning about:
 
-* Deep Learning
-* Reinforcement Learning
+* Distributed Deep Learning
+* Offline Reinforcement Learning
 * Game Theory
+
+- 📫 How to reach me:
+  - Email: [daihaovigg@gmail.com](mailto:daihaovigg@gmail.com)
+  - Homepage: [Hao Dai - Personal Homepage](https://daihao42.github.io)
 
 <!-- > Here are some of my experimental codes and datasets, and it's my pleasure if they're useful to you 😄. -->
 
