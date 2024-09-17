@@ -2,7 +2,7 @@
 
 🤔 I’m currently learning about:
 
-* Distributed Deep Learning
+* Continual Learning
 * Offline Reinforcement Learning
 * Game Theory
 
