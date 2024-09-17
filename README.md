@@ -8,7 +8,7 @@
 
 📫 How to reach me:
   - Email: [daihaovigg@gmail.com](mailto:daihaovigg@gmail.com)
-  - Homepage: [Hao Dai - Personal Homepage](https://daihao42.github.io)
+  <!-- - Homepage: [Hao Dai - Personal Homepage](https://) -->
 
 <!-- > Here are some of my experimental codes and datasets, and it's my pleasure if they're useful to you 😄. -->
 
