@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤔 I’m currently learning about:
+🤔 I’m currently working on:
 
 * Continual Learning
 * Offline Reinforcement Learning
