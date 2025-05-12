@@ -3,7 +3,9 @@
 🤔 I’m currently working on:
 
 * Continual Learning
-* Offline Reinforcement Learning
+* Text-to-Any Generative Models
+* Diffusion Policy
+* Bayesian Inference
 * Game Theory
 
 📫 How to reach me:
