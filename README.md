@@ -4,9 +4,7 @@
 
 * Continual Learning
 * Text-to-Any Generative Models
-* Diffusion Policy
 * Bayesian Inference
-* Game Theory
 
 📫 How to reach me:
   - Email: [daihaovigg@gmail.com](mailto:daihaovigg@gmail.com)
